@@ -1,0 +1,43 @@
+normal
+  | o    
+  |/|\   
+    |    
+   / \   
+attack
+  \ o    
+   \/    
+    |    
+   / \   
+super
+normal
+  | @~   
+  |/|\)  
+    |    
+   / \   
+attack
+  \ @~   
+   \/    
+    |    
+   / \   
+change side
+normal
+    o |  
+   /|\|  
+    |    
+   / \   
+attack
+    o /  
+    \/   
+    |    
+   / \   
+super
+normal
+   ~@ |  
+  (/|\|  
+    |    
+   / \   
+attack
+   ~@ /  
+    \/   
+    |    
+   / \   

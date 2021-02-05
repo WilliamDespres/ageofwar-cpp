@@ -1,0 +1,21 @@
+normal
+  / O    
+  |/|>   
+  \ |    
+   / \   
+attack
+  | O    
+  |/|\   
+  | |    
+   / \   
+change side
+normal
+    O \  
+   <|\|  
+    | /  
+   / \   
+attack
+    O |  
+   /|\|  
+    | |  
+   / \   

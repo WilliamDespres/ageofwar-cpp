@@ -1,0 +1,21 @@
+normal
+         
+,__.-.   
+ .-'='-. 
+(O_o_o_O)
+attack
+         
+  ,.-.   
+ .-'='-. 
+(O_o_o_O)
+change side
+normal
+         
+   .-.__,
+ .-'='-. 
+(O_o_o_O)
+attack
+         
+   .-.,  
+ .-'='-. 
+(O_o_o_O)

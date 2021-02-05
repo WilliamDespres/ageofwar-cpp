@@ -1,0 +1,21 @@
+normal
+ ===o=   
+   \|    
+    |    
+   / \   
+attack
+  ===o=  
+    //   
+    |    
+   / \   
+change side
+normal
+   =o=== 
+    |/   
+    |    
+   / \   
+attack
+  =o===  
+   \\    
+    |    
+   / \   

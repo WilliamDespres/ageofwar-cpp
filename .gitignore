@@ -1,0 +1,10 @@
+# MacOS file system and VSCode
+*.DS_STORE
+*.vscode
+
+# Build folder
+/build
+/saves
+
+# Binary
+ageofwar
