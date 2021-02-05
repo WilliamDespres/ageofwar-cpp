@@ -5,7 +5,7 @@ Written with a classmate.
 
 ## Usage
 
-To play AgeOfWarCpp, on a UNIX terminal, execute the following commands:
+To play AgeOfWarCpp, on a UNIX terminal, in root folder, execute the following commands:
 ```
 make
 ./ageofwar
