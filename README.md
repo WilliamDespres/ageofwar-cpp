@@ -1,6 +1,6 @@
 # AgeOfWarCpp
 
-M1 project - a remake of the classic game Age of War, for UNIX terminals.
+Engineering school project - a remake of the classic game Age of War, for UNIX terminals.
 
 ## Usage
 
